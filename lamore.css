@@ -1,0 +1,125 @@
+.barra{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Brush Script mt';
+    text-align: center;
+    color: white;
+    background: -webkit-linear-gradient(left, #702c32, #c9556c);
+    background: -moz-linear-gradient(left, #702c32, #c9556c);
+    background: -ms-linear-gradient(left, #702c32, #c9556c);
+    background: -o-linear-gradient(left, #702c32, #c9556c);
+    background: linear-gradient(to right, #702c32, #c9556c);
+    line-height: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-width: 0px;
+    border-style: ridge, var(-moz-linear-gradient);
+    border-color: -webkit-linear-gradient(left, #702c32, #c9556c);
+    border-color: -moz-linear-gradient(left, #702c32, #c9556c);
+    border-color: -ms-linear-gradient(left, #702c32, #c9556c);
+    border-color: -o-linear-gradient(left, #702c32, #c9556c);
+    border-color: linear-gradient(to right, #702c32, #c9556c);
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    position: fixed;
+    top: 0;
+    bottom: 50;
+    left: 0;
+    right: 0;
+    height: 60px;
+}
+
+img{
+    margin-left: -15px;
+    border-radius: 20px;
+}
+
+body{
+    background-color: #cc6b7f;
+    margin-left: px;
+    margin-right: Px;
+}
+
+h3{
+    text-align: center;
+    background: -webkit-linear-gradient(left, #c9556c, #702c32);
+    background: -moz-linear-gradient(left, #c9556c, #702c32);
+    background: -ms-linear-gradient(left, #c9556c, #702c32);
+    background: -o-linear-gradient(left, #c9556c, #702c32);
+    background: linear-gradient(to right, #c9556c, #702c32);
+    line-height: 50px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: 0px;
+    margin-top: -4px;
+    border-width: 5px;
+    border-style: var(-moz-linear-gradient);
+    border-color: -webkit-linear-gradient(left, #702c32, #c9556c);
+    border-color: -moz-linear-gradient(left, #702c32, #c9556c);
+    border-color: -ms-linear-gradient(left, #702c32, #c9556c);
+    border-color: -o-linear-gradient(left, #702c32, #c9556c);
+    border-color: linear-gradient(to right, #702c32, #c9556c);
+    border-radius: 30px;
+}
+
+h4{
+    font-style: normal;
+    text-decoration: none;
+    font-size: larger;
+    text-align: center;
+    line-height: 0px;
+    margin-top: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: underline;
+}
+
+div{
+    text-align: left;
+    color: white;
+}
+
+footer{
+    color: white;
+    font-size: 13px;
+    padding-top: 5px;
+    padding-left: 10px;
+    text-align: center;
+    background: -webkit-linear-gradient(left, #702c32, #c9556c);
+    background: -moz-linear-gradient(left, #702c32, #c9556c);
+    background: -ms-linear-gradient(left, #702c32, #c9556c);
+    background: -o-linear-gradient(left, #702c32, #c9556c);
+    background: linear-gradient(to right, #702c32, #c9556c);
+    line-height: 20px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -20px;
+    margin-top: -40px;
+    border-style: ridge, var(-moz-linear-gradient);
+    border-color: -webkit-linear-gradient(left, #702c32, #c9556c);
+    border-color: -moz-linear-gradient(left, #702c32, #c9556c);
+    border-color: -ms-linear-gradient(left, #702c32, #c9556c);
+    border-color: -o-linear-gradient(left, #702c32, #c9556c);
+    border-color: linear-gradient(to right, #702c32, #c9556c);
+    position: relative;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+
+}
+
+.instagram{
+    text-align: right;
+    padding-left: 20px;
+}
+.autores{
+    text-align: left;
+}
+
+.redes{
+    text-align: right;
+    padding-right: 10px;
+}
