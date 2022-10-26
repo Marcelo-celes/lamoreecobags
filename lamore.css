@@ -1,7 +1,3 @@
-html{
-    text-align: center;
-}
-
 .barra{
     font-size: 25px;
     font-weight: bold;
@@ -42,8 +38,7 @@ img{
 
 body{
     background-color: #cc6b7f;
-    margin-left: px;
-    margin-right: Px;
+    text-align: center;
 }
 
 h3{
