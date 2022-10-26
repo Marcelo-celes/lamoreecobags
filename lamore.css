@@ -1,7 +1,3 @@
-html{
-    text-align: center;
-}
-
 .barra{
     font-size: 25px;
     font-weight: bold;
@@ -120,13 +116,6 @@ footer{
     padding-left: 20px;
 }
 
-.tiktok{
-    padding-left: 20px;
-}
-
-.shopee{
-    padding-left: 20px;
-}
 
 .autores{
     text-align: left;
