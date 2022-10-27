@@ -48,7 +48,7 @@ h3{
     margin-right: -8px;
     margin-bottom: 0px;
     margin-top: -4px;
-    border-width: 5px;
+    border-width: 100%;
     border-style: var(-moz-linear-gradient);
     border-color: -webkit-linear-gradient(left, #702c32, #c9556c);
     border-color: -moz-linear-gradient(left, #702c32, #c9556c);
